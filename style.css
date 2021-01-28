@@ -1,0 +1,12 @@
+.section {
+    margin: 3px;
+    display: flex;
+}
+.input {
+    margin-top:12px;
+    height: 20px;
+    width: 60px;
+    margin-left: 50px;
+
+}
+
